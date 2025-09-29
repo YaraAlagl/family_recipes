@@ -1,4 +1,4 @@
-# Family secret recipes
+# Yara's family secret recipes
 
 Set of recipes as given by my grandma.
 
